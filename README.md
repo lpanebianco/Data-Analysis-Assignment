@@ -1,6 +1,6 @@
 # Data Science Professional Certificate - Final Projects
 
-This repository contains the final projects for the "IBM Data Science Professional Certificate" available on Coursera. In the following, the descriptions of the many project scenarios.
+This repository contains some of the final projects for the "IBM Data Science Professional Certificate" available on Coursera. The repository focuses on the final labs implemented by Jupyter notebooks. In the following, the descriptions of the many project scenarios.
 
 ## Tools for Data Science
 
