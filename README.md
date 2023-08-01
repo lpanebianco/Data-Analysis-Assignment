@@ -1,4 +1,4 @@
-# Data Science Professional Certificate - Final projects
+# Data Science Professional Certificate - Final Projects
 
 This repository contains the final projects for the "IBM Data Science Professional Certificate" available on Coursera.
 
