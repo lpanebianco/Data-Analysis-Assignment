@@ -50,3 +50,7 @@ The dataset contains house sale prices for King County, which includes Seattle. 
 https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01
 
 It was also slightly modified for the purposes of the course. 
+
+## Data Analysis with Python
+
+This is Honors Project. Its completion is optional but highly recommended. For your project, you will use a rainfall dataset from Australian Government's Bureau of Meteorology, clean the data, and apply different classification algorithm on the data. 
