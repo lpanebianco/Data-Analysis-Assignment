@@ -51,6 +51,6 @@ https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?utm_medium=Exinfl
 
 It was also slightly modified for the purposes of the course. 
 
-## Data Analysis with Python
+## Machine Learning with Python
 
 This is Honors Project. Its completion is optional but highly recommended. For your project, you will use a rainfall dataset from Australian Government's Bureau of Meteorology, clean the data, and apply different classification algorithm on the data. 
